@@ -1,0 +1,172 @@
+body {
+  font-family: "Finlandica", sans-serif;
+  font-family: "Mukta", sans-serif;
+  font-family: "Oswald", sans-serif;
+  margin: 0%;
+}
+p {
+  font-size: 19px;
+}
+#header-text {
+  padding-top: 8%;
+  font-size: 100px;
+  margin: 0%;
+}
+.header {
+  padding-left: 100px;
+  padding-right: 100px;
+  height: 100vh;
+  background-image: url(images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+#header-text-p {
+  padding-bottom: 2%;
+}
+.link-button {
+  font-size: xx-large;
+  text-decoration: none;
+  background-color: rgb(252, 108, 108);
+  color: white;
+  font-weight: 400;
+  padding: 10px 40px;
+  border-radius: 8px;
+}
+#donate-text {
+  font-size: 60px;
+  margin-top: 100px;
+}
+.donate-today {
+  text-align: center;
+}
+.ok {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(240, 248, 255, 0.486);
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+.tk {
+  background-color: rgba(250, 114, 114, 0.37);
+  border: 3px solid salmon;
+  border-radius: 5px;
+}
+.no-border {
+  position: relative;
+  border: none;
+}
+#bottom-border {
+  border-bottom-width: 200px;
+  border-bottom: 2px solid rgb(255, 6, 6);
+}
+.other-amount {
+  padding: 20px;
+}
+.dnoate-plan {
+  padding-left: 80px;
+  padding-right: 80px;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 70px;
+}
+.box1 {
+  padding-top: 40px;
+  padding-left: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 255, 255, 0.184);
+  height: 350px;
+  width: 350px;
+  margin: 10px;
+}
+.box2 {
+  padding-top: 40px;
+  padding-left: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(95, 158, 160, 0.379);
+  height: 350px;
+  width: 350px;
+  margin: 10px;
+}
+.box3 {
+  padding-top: 40px;
+  padding-left: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(233, 150, 122, 0.408);
+  height: 350px;
+  width: 350px;
+  margin: 10px;
+}
+.box-alin {
+  margin-left: 300px;
+  display: flex;
+}
+.mda {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.donate-now-me {
+  padding: 20px;
+  margin-left: 600px;
+  background-position: center;
+  background-color: rgb(235, 255, 13);
+  width: 300px;
+  height: 350px;
+}
+.get-my-up {
+  text-align: center;
+}
+.email {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(212, 178, 131, 0.314);
+  margin-left: 400px;
+  margin-right: 400px;
+  height: 150px;
+}
+label {
+  position: relative;
+}
+input {
+  background-color: rgba(131, 164, 164, 0.252);
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+button {
+  position: absolute;
+  border: none;
+  padding: 5px;
+  background-color: rgba(227, 30, 30, 0.842);
+}
+#f-r {
+  font-size: 15px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+footer {
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  color: rgb(242, 33, 82);
+  font-family: "Finlandica", sans-serif;
+  font-family: "Mukta", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "The Nautigal", cursive;
+  background-color: rgba(0, 0, 0, 0.76);
+  height: 100px;
+  width: 100%;
+}
