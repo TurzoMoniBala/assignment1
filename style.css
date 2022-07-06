@@ -65,8 +65,9 @@ p {
   border: none;
 }
 #bottom-border {
-  border-bottom-width: 200px;
-  border-bottom: 2px solid rgb(255, 6, 6);
+  text-align: center;
+  border: none;
+  border-bottom: 2px solid silver;
 }
 .other-amount {
   padding: 20px;
@@ -129,20 +130,25 @@ p {
   margin-right: 400px;
   height: 150px;
 }
-label {
+.email-input {
   position: relative;
 }
-input {
-  background-color: rgba(131, 164, 164, 0.252);
+#text-input {
   border: none;
-  padding: 10px;
+  padding: 15px;
+  width: 400px;
   border-radius: 5px;
 }
 button {
   position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
   border: none;
-  padding: 5px;
+  padding: 15px;
   background-color: rgba(227, 30, 30, 0.842);
+  color: white;
+  border-radius: 0px 10px 10px 0px;
 }
 #f-r {
   font-size: 15px;
