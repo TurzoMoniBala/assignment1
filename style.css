@@ -13,6 +13,7 @@ p {
   margin: 0%;
 }
 .header {
+  box-shadow: 0px 50px 80px black;
   padding-left: 100px;
   padding-right: 100px;
   height: 100vh;
@@ -117,6 +118,22 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.what-we-make {
+  text-align: center;
+}
+.half-width {
+  box-shadow: 10px 5px 30px black;
+  width: 50%;
+  margin: 30px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.flax {
+  display: flex;
+}
+.USER-PRO {
+  text-align: end;
 }
 .get-my-up {
   text-align: center;
